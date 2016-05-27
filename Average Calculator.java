@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// grade = number of Grades / numbers to average || sum = the amount of all of the nubmers / grades || average = the average, the final number.
+// very simple code :)
+
 
 public class Test {
     public static  void main (String [] args) {
